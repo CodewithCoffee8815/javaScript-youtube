@@ -77,9 +77,9 @@ let value = 3;
 
  console.log(gameCounter);
 
- console.log(gameCounter++);
+ console.log(gameCounter++); //post increment
 
-//  console.log(++gameCounter);
+ console.log(++gameCounter); //pre increment 
  
  
  
